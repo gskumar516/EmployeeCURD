@@ -1,4 +1,4 @@
-package com.scb.demo.security.apiToken;
+package com.scb.security.apiToken;
 
 import javax.servlet.http.HttpServletRequest;
 

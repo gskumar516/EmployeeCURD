@@ -1,4 +1,4 @@
-package com.scb.demo.security.apiToken;
+package com.scb.security.apiToken;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
